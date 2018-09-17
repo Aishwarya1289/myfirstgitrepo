@@ -1,1 +1,1 @@
-Sample code check
+/*Sample code check */
